@@ -1,3 +1,4 @@
+theme: minima
 show_downloads: false
 plugins:
   - jekyll-responsive_image
