@@ -1,0 +1,5 @@
+show_downloads: false
+plugins:
+  - jekyll-responsive_image
+github:
+  is_project_page: false
