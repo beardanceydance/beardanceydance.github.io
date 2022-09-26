@@ -2,6 +2,6 @@ theme: minima
 show_downloads: false
 plugins:
   - jekyll-responsive_image
+title: Bear Is Walkin Kinda Goofy
 github:
   is_project_page: false
-title: Bear Is Walkin Kinda Goofy
